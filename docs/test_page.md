@@ -1,5 +1,6 @@
 ---
 title: Teeeest Page
+layout: default
 ---
 
 # Header 1
