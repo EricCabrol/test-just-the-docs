@@ -1,9 +1,4 @@
 title: Ricopedia
 description: My digital garden
 theme: just-the-docs
-
 url: https://ericcabrol.github.io/test-just-the-docs/
-
-
-plugins:
-  - jekyll-default-layout
