@@ -2,3 +2,9 @@ title: Ricopedia
 description: My digital garden
 theme: just-the-docs
 url: https://ericcabrol.github.io/test-just-the-docs/
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
