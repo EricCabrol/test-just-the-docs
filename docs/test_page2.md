@@ -2,6 +2,8 @@
 title: Teeeest Page
 ---
 
+{% include mathjax.html %}
+
 # Header 1
 
 
@@ -15,8 +17,12 @@ This is a #tag
 
 #tag only line
 
-Equation
+Equation without spaces  
 $$V=\frac{4}{3} \pi r^3$$
+
+Equation with spaces  
+$$ V=\frac{4}{3} \pi r^3 $$
+
 
 Inline equation : $A = \pi r^2$
 
