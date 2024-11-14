@@ -1,6 +1,7 @@
 ---
 title: Teeeest Page
 ---
+{% include mathjax.html %}
 
 # Header 1
 
